@@ -66,7 +66,7 @@
             <!-- Campo para el ID de la plantilla -->
             <v-text-field
               v-model="formData.id_Plantilla"
-              label="Template ID (notificacion_estandar_imagenes)"
+              label="Template ID (notificacion_estandar_imagenes_v2)"
               :rules="[rules.required]"
               required
             ></v-text-field>
